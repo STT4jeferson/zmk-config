@@ -30,7 +30,7 @@
 &trans            &kp SLASH  &kp QUESTION  &trans  &trans  &kp PRINTSCREEN    &kp F11  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &kp MINUS      &kp HOME
 &trans            &trans     &trans        &trans  &trans  &trans             &trans   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp GRAVE  &kp SEMICOLON  &kp END
 &kp LEFT_SHIFT    &trans     &trans        &trans  &trans  &trans             &trans   &trans                &trans                 &trans     &trans         &kp PAGE_UP
-&mo 2             &trans     &trans        &trans  &trans  &trans             &trans   &trans                &trans                 &trans     &trans         &kp PAGE_DOWN
+&mo 2             &trans     &trans        &trans  &trans  &none              &trans   &trans                &trans                 &trans     &trans         &kp PAGE_DOWN
             >;
         };
 
